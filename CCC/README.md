@@ -22,6 +22,9 @@
 	$ conda install -c anaconda ipykernel
 	$ python -m ipykernel install --user --name=crypten
 
+	$ conda install conda-forge::matplotlib
+	$ conda install anaconda::pandas
+
 	$ cd tutorials/
 	$ jupyter lab
 
